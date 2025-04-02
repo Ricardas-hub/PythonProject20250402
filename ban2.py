@@ -1,1 +1,5 @@
 print("labas3")
+print("labas3")
+print("labas3")
+print("labas3")
+print("labas3")
